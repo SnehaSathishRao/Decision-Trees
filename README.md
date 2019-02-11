@@ -12,4 +12,4 @@ I have used Amazon data which contains summary of reviews that is featurized usi
 |    grid_BOW   | 0.8080595131739432 | 0.7673781072968167 |
 |  grid_TF_IDF  | 0.810043223937983  | 0.7684279709100216 |
 | grid_avgw2vec | 0.7494677213974306 | 0.7415708660917639 |
-|  grid_ww2vec  | 0.7094475807638189 | 0.6913520851470105
+|  grid_ww2vec  | 0.7094475807638189 | 0.6913520851470105|
