@@ -8,7 +8,7 @@ I have used Amazon data which contains summary of reviews that is featurized usi
 
 
 |     Model     |  Train auc-score   |   Test auc-score   |
-| ------------- | ------------- |------------- | ------------- |
+| ------------- | ------------- |------------- |
 |    grid_BOW   | 0.8080595131739432 | 0.7673781072968167 |
 |  grid_TF_IDF  | 0.810043223937983  | 0.7684279709100216 |
 | grid_avgw2vec | 0.7494677213974306 | 0.7415708660917639 |
